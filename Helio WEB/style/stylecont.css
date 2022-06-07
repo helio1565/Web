@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+    font-family: kanit;
+  }
+  
+  header {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+  
+  }
+  
+  
+  .Contato {
+    padding-top: 10px;
+  margin-left: 52rem;
+  
+  font-size: 18px;
+  
+  color: #00AAA9;
+  
+  }
+  
+  body {
+    background-color: #00AAA9;
+  }
+  
+  
+  div {
+    display: inline-block;
+  
+    margin-left: 50px;
+  
+    border-radius: 3px;
+    border: 1px solid;
+  
+    padding: 3px;
+  
+    margin-top: 2rem;
+  }
+  
+  section {
+    background-color: rgba(255, 255, 255);
+    margin-top: 5px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+  
+    height: 28rem;
+  
+    border-radius: 5px;
+  }
+  
+  img {
+    margin-top: 4px;
+  }
+  
+  
+  article {
+    margin-left: 5rem;
+  }
+  
+  h1 {
+    color: #00AAA9;
+    margin-left: 2rem;
+  }
+  
+  h2 {
+    margin-left: 18px;
+  }
+  
+  h3 {
+    margin-top: 2rem;
+    margin-left: 18px;
+  }
+
+  label {
+      margin-left: 5rem;
+
+      font-size: 22px;
+  }
+  
+  .textarea{
+      margin-left: 9rem;
+  }
+  
